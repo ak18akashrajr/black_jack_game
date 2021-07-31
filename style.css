@@ -1,0 +1,37 @@
+h1{
+    color: goldenrod;
+    
+}
+body{
+    background-image: url(https://imgr.search.brave.com/stAPkH1_tC4_geklvmMH_ksvtEUJRuuu1IuYjEUU1YI/fit/1200/1200/no/1/aHR0cHM6Ly93d3cu/ZnJlZS1mcmVlY2Vs/bC1zb2xpdGFpcmUu/Y29tL3NvbGl0YWly/ZS9pbWFnZXMvYmFj/a2dyb3VuZHMvMTky/MHgxMjAwL2dyZWVu/X2ZlbHQuanBn);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    
+}
+p{
+    font-size: 30px;
+    font-weight: bolder;
+    
+    
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    color: #016f32;
+    width: 250px;
+    background: goldenrod;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 9px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+a:hover{
+    color:yellow ;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
